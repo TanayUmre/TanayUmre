@@ -42,7 +42,7 @@
 
 <h2 align="center">Top Languages</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANAYUMRE&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayUmre&layout=compact&theme=github_dark" alt="Top Languages"/>
 </div>
 
 -----
