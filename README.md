@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/HackerRank-%2326A65B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://codolio.com/profile/NOOBCODE">
-    <img src="https://img.shields.io/badge/Coodolio-%23000000?style=for-the-badge&logo=coodolio&logoColor=white" alt="Coodolio"/>
+    <img src="https://img.shields.io/badge/Codolio-%23000000?style=for-the-badge&logo=coodolio&logoColor=white" alt="Coodolio"/>
   </a>
   <a href="mailto:tanayumre@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
