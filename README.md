@@ -47,6 +47,14 @@
 
 -----
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=TanayUmre&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+-----
+
 <h2 align="center">Socials</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/tanay-umre/">
