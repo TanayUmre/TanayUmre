@@ -55,6 +55,12 @@
 
 -----
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanayUmre&theme=tokyo-night" alt="Tanay's activity graph"/>
+</p>
+
+-----
+
 <h2 align="center">Socials</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/tanay-umre/">
