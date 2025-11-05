@@ -11,7 +11,7 @@
 
 | Platform | Rank / Skills | Current Rating | Profile|
 |:--|:--:|:--:|:--:|
-| <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"> | ★★★ | **1638** | [CodeChef](https://www.codechef.com/users/tu1235) |
+| <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"> | ★★★ | **1654** | [CodeChef](https://www.codechef.com/users/tu1235) |
 | <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="30"> | 🟢 **Pupil** | **1213** | [Codeforces](https://codeforces.com/profile/TANAY1235) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="35"> |  | **1838** | [LeetCode](https://leetcode.com/u/TANAY_UMRE/) |
 | <img src="https://tech-blog.s-yoshiki.com/images/thumbnail/atcoder-logo.jpg" height="35"> | 🟤 **Brown** | **594** | [AtCoder](https://atcoder.jp/users/tu1235) |
