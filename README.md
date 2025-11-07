@@ -51,9 +51,7 @@
 -----
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=TanayUmre&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TanayUmre&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 -----
