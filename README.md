@@ -39,6 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/TanayUmre/TanayUmre/main/newlogoflask.svg" height="40" title="Flask"/>
 </div>
 
 -----
