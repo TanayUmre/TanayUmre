@@ -58,6 +58,12 @@
 -----
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TanayUmre&theme=tokyonight" height="180"/>
+</p>
+
+-----
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanayUmre&theme=tokyo-night" alt="Tanay's activity graph"/>
 </p>
 
