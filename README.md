@@ -9,7 +9,7 @@
 <h2 align="center">Coding Platforms</h2>
 <div align="center">
 
-| Platform | Rank / Skills | Current Rating | Profile|
+| Platform | Rank / Skills | Maximum Rating | Profile|
 |:--|:--:|:--:|:--:|
 | <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"> | ★★★ | **1654** | [CodeChef](https://www.codechef.com/users/tu1235) |
 | <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="30"> | 🟢 **Pupil** | **1293** | [Codeforces](https://codeforces.com/profile/TANAY1235) |
