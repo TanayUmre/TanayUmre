@@ -32,6 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git"/>
@@ -47,16 +48,16 @@
 
 <h2 align="center">Top Languages</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayUmre&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanayUmre&theme=github_dark&animation=rise&duration=10" width="35%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanayUmre&theme=github_dark&animation=rise&duration=10" width="35%/>
 </div>
 
 -----
 
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanayUmre&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanayUmre&theme=github_dark&animation=rise&duration=10" alt="GitHub Stats"/>
 </p>
-
------
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TanayUmre&theme=tokyonight" height="180"/>
