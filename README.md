@@ -11,10 +11,10 @@
 
 | Platform | Rank / Skills | Maximum Rating | Profile|
 |:--|:--:|:--:|:--:|
-| <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"> | ★★★ | **1654** | [CodeChef](https://www.codechef.com/users/tu1235) |
-| <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="30"> | 🟢 **Pupil** | **1293** | [Codeforces](https://codeforces.com/profile/TANAY1235) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="35"> | 🟢 **Knight** | **1870** | [LeetCode](https://leetcode.com/u/TANAY_UMRE/) |
+| <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="30"> | 🟢 **Pupil** | **1293** | [Codeforces](https://codeforces.com/profile/TANAY1235) |
 | <img src="https://tech-blog.s-yoshiki.com/images/thumbnail/atcoder-logo.jpg" height="35"> | 🟤 **Brown** | **712** | [AtCoder](https://atcoder.jp/users/tu1235) |
+| <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"> | ★★★ | **1654** | [CodeChef](https://www.codechef.com/users/tu1235) |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qRUDkhre_ZKUhRuMW_tFIFV9w0JbkxdxOg&s" height="60" width="150"> | 💚 **C++: 5★ <br> C: 4★ <br> Python: 3★** | — | [HackerRank](https://www.hackerrank.com/tanayumre) |
 
 
