@@ -2,7 +2,7 @@
 
 ------
 
-<h3 align="center"> Doing Competitive Programming and Coding mostly C++ and Python</h3>
+<h3 align="center"> Competitive programming and coding, primarily in C++, with development in Python and JavaScript.</h3>
 
 ------
 
