@@ -58,21 +58,23 @@
 -----
 
 <h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanayUmre&theme=github_dark&animation=rise&duration=10" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TanayUmre&theme=tokyonight" height="180"/>
-</p>
-
------
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanayUmre&theme=tokyo-night" alt="Tanay's activity graph"/>
-</p>
-
------
+<div>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanayUmre&theme=github_dark&animation=rise&duration=10" alt="GitHub Stats"/>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TanayUmre&theme=tokyonight" height="180"/>
+  </p>
+  
+  -----
+  
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanayUmre&theme=tokyo-night" alt="Tanay's activity graph"/>
+  </p>
+  
+  -----
+</div>
 
 <h2 align="center">Socials</h2>
 <div align="center">
