@@ -43,6 +43,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>
   <img src="https://raw.githubusercontent.com/TanayUmre/TanayUmre/main/newlogoflask.svg" height="40" title="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" height="40" title="Pydantic"/>
 </div>
 
 -----
