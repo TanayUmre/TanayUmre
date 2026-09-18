@@ -45,6 +45,7 @@
   <img src="https://raw.githubusercontent.com/TanayUmre/TanayUmre/main/newlogoflask.svg" height="40" title="Flask"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>
   <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" height="40" title="Pydantic"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="40" title="SQLAlchemy"/>
 </div>
 
 -----
