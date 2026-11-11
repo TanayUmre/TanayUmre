@@ -325,33 +325,32 @@ I'm interested in how software works beneath the surface — from efficient algo
   alt="GitHub stats for TanayUmre"
   height="170"
 />
+<br/>
 <img
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=TanayUmre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Most-used languages by commits"
   height="170"
 />
-
-<br/><br/>
-
+<br/>
 <img
   src="https://streak-stats.demolab.com/?user=TanayUmre&theme=radical&hide_border=false"
   alt="GitHub contribution streak for TanayUmre"
-  width="75%"
+  height="170"
 />
 
-<br/><br/>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=TanayUmre&icon=0&color=0891B2&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-
-<br/><br/>
+<br/>
 
 <img
-  src="https://github.pumbas.net/api/contributions/TanayUmre?colour=70A5FD&bgColour=1A1B27&dotColour=38BDAE&days=365"
+  src="https://github.pumbas.net/api/contributions/TanayUmre?colour=70A5FD&bgColour=1A1B27&dotColour=38BDAE&days=30"
   width="100%"
-  alt="Tanay's GitHub contribution activity graph for the last 365 days"
+  alt="Tanay's GitHub contribution activity graph for the last 30 days"
 />
+
+<br/>
+
+<!-- <a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=TanayUmre&icon=0&color=0891B2&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+</a> -->
 
 </div>
 
